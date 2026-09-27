@@ -1,5 +1,9 @@
 # RecSys Benchmark Suite: From Classical Collaborative Filtering to Generative Retrieval
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.2%2B-orange?logo=pytorch)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A unified, reproducible benchmark exploring the evolution of modern recommendation paradigms:
 
 - **Neural Collaborative Filtering (NCF)**
