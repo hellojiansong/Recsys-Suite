@@ -207,3 +207,4 @@ python src/hybrid_fusion.py
 2. Wang-Cheng Kang and Julian McAuley. *Self-Attentive Sequential Recommendation*. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 2018.
 3. Shashank Rajput, Nikhil Mehta, Anima Singh, et al. *Recommender Systems with Generative Retrieval*. In Advances in Neural Information Processing Systems (NeurIPS), 2023.
 4. Harald Steck. *Embarrassingly Shallow Autoencoders for Sparse Data*. In The World Wide Web Conference (WWW), 2019.
+
